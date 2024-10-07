@@ -109,6 +109,8 @@ return {
   --   end,
   --   lazy = false,
   -- },
+  "nvim-lua/plenary.nvim",
+
   {
     "lewis6991/gitsigns.nvim",
     event = "User FilePost",
